@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #2f3640;
+}
+.digital-clock{
+  width: 400px;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  text-align: center;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+h1{
+  font-size: 60px;
+  font-weight: 600;
+  color: #ff8000;
+  margin-bottom: 20px;
+}
+.time{
+  margin-bottom: 15px;
+  font-size: 50px;
+  font-weight: 700;
+}
+.date{
+  font-size: 20px;
+  color: #666;
+}

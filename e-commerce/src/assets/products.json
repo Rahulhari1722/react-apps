@@ -1,0 +1,104 @@
+[
+  {
+  "id":89,
+  "name":"Farmer Pick",
+  "amt":"299",
+  "shop":"Pizza Hut",
+  "ftype":"Veg",
+  "pic":"http://www.app.tutorjoes.in/img/food/89.jpg",
+  "latest":"no"
+}, 
+{
+  "id":124,
+  "name":"Paper Roast Dosa",
+  "amt":"2",
+  "shop":"Masani",
+  "ftype":"veg",
+  "pic":"http://www.app.tutorjoes.in/img/food/124.jpg",
+  "latest":"no"
+},
+{
+  "id":26,
+  "name":"Pasta",
+  "amt":"3",
+  "shop":"Salem Shop",
+  "ftype":"Non-veg",
+  "pic":"http://www.app.tutorjoes.in/img/food/26.jpg",
+  "latest":"yes"
+},
+{
+  "id":9,
+  "name":"Chicken-65",
+  "amt":"4",
+  "shop":"Suguna",
+  "ftype":"Non-veg",
+  "pic":"http://www.app.tutorjoes.in/img/food/9.jpg",
+  "latest":"no"
+},{
+  "id":80,
+  "name":"Momo Mia meal",
+  "amt":"5",
+  "shop":"Dominoz",
+  "ftype":"Veg",
+  "pic":"http://www.app.tutorjoes.in/img/food/80.jpg",
+  "latest":"yes"
+},{
+  "id":28,
+  "name":"Orange Juice",
+  "amt":"6",
+  "shop":"Juicy",
+  "ftype":"Veg",
+  "pic":"http://www.app.tutorjoes.in/img/food/28.jpg",
+  "latest":"yes"
+},{
+  "id":67,
+  "name":"Milk Halwa",
+  "amt":"7",
+  "shop":"Irrutu Kadai",
+  "ftype":"Veg",
+  "pic":"http://www.app.tutorjoes.in/img/food/67.jpg",
+  "latest":"yes"
+},{
+  "id":120,
+  "name":"Vegetable Soup",
+  "amt":"8",
+  "shop":"Soupify",
+  "ftype":"Veg",
+  "pic":"http://www.app.tutorjoes.in/img/food/120.jpg",
+  "latest":"no"
+},{
+  "id":20,
+  "name":"Hyderabad Chicken Dry",
+  "amt":"9",
+  "shop":"Chalappa Kattu ",
+  "ftype":"Non-veg",
+  "pic":"http://www.app.tutorjoes.in/img/food/20.jpg",
+  "latest":"yes"
+},{
+  "id":133,
+  "name":"Spicy Chicken Soup",
+  "amt":"10",
+  "shop":"Tandoori Wala",
+  "ftype":"Non-veg",
+  "pic":"http://www.app.tutorjoes.in/img/food/133.jpg",
+  "latest":"no"
+},{
+  "id":130,
+  "name":"Veg Seekh Kebab",
+  "amt":"11",
+  "shop":"Tandoori Wala",
+  "ftype":"Veg",
+  "pic":"http://www.app.tutorjoes.in/img/food/130.jpg",
+  "latest":"yes"
+},{
+  "id":71,
+  "name":"Malai DOda",
+  "amt":"12",
+  "shop":"Gupta Sweats",
+  "ftype":"Veg",
+  "pic":"http://www.app.tutorjoes.in/img/food/71.jpg",
+  "latest":"yes"
+}
+
+
+]

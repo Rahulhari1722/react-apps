@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "question": "What is the capital of france",
+        "options":["berlin", "paris", "london", "rome"],
+        "correctOption":"paris"
+    },
+    {
+        "id":2,
+        "question": "What is the capital of england",
+        "options":["london", "manchester", "birmingham", "liverpool"],
+        "correctOption":"london"
+    },
+    {
+        "id":3,
+        "question": "What is the capital of spain",
+        "options":["madrid", "barcelona", "valencia", "seville"],
+        "correctOption":"madrid"
+    }
+]

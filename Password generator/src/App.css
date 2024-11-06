@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: aliceblue;
+}
+.password-generator{
+    width: 400px;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+.password-generator h2{
+    text-align: center;
+    margin-bottom: 20px;
+    color: rgb(0, 110, 255);
+    font-weight: 500;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+.input-group,
+.checkbox-group,
+.generator-password{
+    margin-bottom: 15px;
+}
+.checkbox-group{
+    display: flex;
+    align-items: center;
+}
+.checkbox-group input{
+    margin-right: 5px;
+}
+.input-group label{
+    display: block;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+input[type="number"]{
+    width: 100%;
+    padding: 10px;
+    outline: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+.generate-btn{
+    padding: 10px 20px;
+    background-color: rgb(30, 135, 255);
+    border: none;
+    border-radius:5px ;
+    cursor: pointer;
+    color: #fff;
+}
+.generate-btn:hover{
+    background-color: rgb(0, 68, 255);
+}
+.generate-password{
+    margin-top: 15px;
+    display: flex;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    overflow: hidden;
+}
+input[type="text"]{
+    border: none;
+    outline: none;
+    flex: 1;
+    padding: 10px;
+   
+} 
+.copy-btn{
+    border: none;
+    padding: 5px;
+    background-color: green;
+    color: #fff;
+}
+
